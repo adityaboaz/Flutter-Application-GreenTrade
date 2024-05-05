@@ -1,0 +1,2 @@
+# Flutter-Application-GreenTrade
+Our platform facilitates the buying and selling of useful electronic components directly between customers, creating a dynamic marketplace. Additionally, we collaborate with certified recycling facilities to ensure the responsible disposal of electronic waste, completing the lifecycle in an environmentally friendly manner.
